@@ -1,6 +1,7 @@
 # React + Django
 
 clonar el repositorio 
+
 ```git clone (url)```
 
 entrar en la carpeta
